@@ -1,4 +1,4 @@
-# Code to reproduce the paper *Learned Protein Embeddings for Machine Learning*.
+# <i>A repository copy of the paper to reproduce results, tests and conduct local experiments</i>.
 
 ## Installation
 
